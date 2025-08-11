@@ -3,4 +3,4 @@
 // require('./js-foundation/03-callbacks')
 // require('./js-foundation/04-arrow')
 // require('./js-foundation/05-factory')
-require('./js-foundation/06-promises')
+// require('./js-foundation/06-promises')
